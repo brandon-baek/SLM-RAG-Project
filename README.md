@@ -1,4 +1,4 @@
-# SLM-RAG-Project
+# SLM RAG Project
 
 **The full project can be viewed in the "SLM_RAG_Project.ipynb" file**
 
